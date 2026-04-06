@@ -2,8 +2,9 @@
 //  SceneDelegate.h
 //  Save Water
 //
-//  Created by Sebastián Jasso  on 05/04/26.
+//  Created by Jesus Miguel Ramos Hernandez on 20/04/26.
 //
+
 
 #import <UIKit/UIKit.h>
 
